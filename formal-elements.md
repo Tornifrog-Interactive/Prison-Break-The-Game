@@ -64,17 +64,17 @@
 ## סקר שוק
 
 * Prison Break: The Conspiracy
-המילים שחיפשתי כדי לקבל את זה : Prison break game
+המילים שחיפשתי כדי לקבל את זה - Prison break game
 המשחק שם דגש לא על השחקן הראשי, אלה דמות נוספת שצריכה לעזור לשחקן הראשי, מה ששונה מהרעיון המרכזי שלנו שצריך לעשות את המשימות של מייקל השחקן הראשי, על מנת לברוח מהכלא.
 <img src="https://play-lh.googleusercontent.com/EQAIlCZmEE7vIhewX6wCAN2hfH_ZMn6hfAEoy0dZ3OOgtuSIiNDutW2BWhufMGr7uXE=w526-h296-rw">
 
-* Grand Jail Prison Break Escape 
-המילים שחיפשתי כדי לקבל את זה : Missions to escape prison game
+* Grand Jail Prison Break Escape: 
+המילים שחיפשתי כדי לקבל את זה - Missions to escape prison game
 המשחק הוא משימות שונות לבריחה מהכלא על ידי משימות שונות, לא קשור לסדרה prison break אבל כן כיף ומהנה. כך שהמשחק שלנו מציע הרבה יותר ממנו, הוא מבוסס על המשחק האהוב וגם מציע רעיונות מגוונים חכמים וכיפים ליציאה מהכלא.
 <img src="https://play-lh.googleusercontent.com/nw5RQp_GxxwI8yIx3Gmx3XR_adlUav0I25SwSTeCwqbbkJkDPB2s9JYeZc0PAYo7l4yl=w526-h296-rw">
 
-* A Way Out
-המילים שחיפשתי כדי לקבל את זה : game based on prison break series
+* A Way Out: 
+המילים שחיפשתי כדי לקבל את זה - game based on prison break series
 המשחק הוא יחסית חדשני, ומכיל משימות שונות לבריחה מהכלא על ידי משימות שונות, לא קשור לסדרה שאנחנו עושים עליה אבל כן כיף ומהנה. יש להם קונספט של החיים אחרי הכלא גם ומשימות אחרי שבורחים כך שהמשחק שלנו מציע דברים שונים ממנו, אנשים יבחרו בנו כי הם רוצים לחוות את הבריחה מהכלא של מייקל, לראות את המשימות בעיניים ולהיות אלה שמבצעים אותם.
 <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1222700/ss_a7f52388d8d64bf56170baf5bd223fbbb1d9a94a.1920x1080.jpg?t=1626878628">
 
