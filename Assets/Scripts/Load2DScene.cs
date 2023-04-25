@@ -7,8 +7,10 @@ public class Load2DScene : MonoBehaviour
 {
     public string sceneName;
 
-    void OnTriggerEnter(Collider other) {
-        if (other.CompareTag("Player")) {
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
             SceneManager.LoadScene(sceneName);
         }
     }

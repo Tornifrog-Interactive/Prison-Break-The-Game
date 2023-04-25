@@ -14,5 +14,4 @@ public class Load3DScene : MonoBehaviour
             SceneManager.LoadScene(sceneName);
         }
     }
-
 }
