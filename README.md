@@ -21,4 +21,9 @@
 במשחק יש פיזיקה, ואינטרקציה בין התנגשות של אוביקטים.
 
 כמו כן, גם קיים טריגר כדי להכנס למשימת דמה.
+
+![image](https://user-images.githubusercontent.com/74298243/234281497-ebc1f6bb-cf7c-4349-af68-da45640f8cc2.png)
+
+![image](https://user-images.githubusercontent.com/74298243/234281584-8d7d5358-d54b-4915-8390-2b6fbf7a4a97.png)
+
 </div>
